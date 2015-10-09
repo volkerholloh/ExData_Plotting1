@@ -1,6 +1,10 @@
 figure
-.Rproj.user
 
+.gitignore
+
+.Rproj.user
+.RData
+.Rhistory
 
 *.Rproj
 *.csv
